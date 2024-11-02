@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Davi Vital 👋
-
+<hr>
 ### Sobre Mim
 Sou apaixonado por Programacao e Fisica.<br>  
 Sou um estudante do IFPB no curso de Informatica.
@@ -7,13 +7,11 @@ Tambem sou assinante da plataforma RockeatSeat para impulsionar meu aprendizados
 
 Estudo, Faco aulas de Musicas e vou a academia nas horas vagas.
 
-Almejo ser um programador fullstack c# ou Apenas desenvolvedor backend CSharp.
-
-
+<hr>
 
 ![thepedrodev GitHub stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepedrodev)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr>
 ## Tecnologias que eu uso no meu cotidiano
 
 <div style="display : inline_block" ><br>
@@ -23,6 +21,5 @@ Almejo ser um programador fullstack c# ou Apenas desenvolvedor backend CSharp.
     <img align='center' alt='HTML5' src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png' style='width: 50px; height: 50px; padding-right: 10px'/>
     <img align='center' alt='HTML5' src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/csharp.png' style='width: 50px; height: 55px'/>
 </div>
-
 
 
