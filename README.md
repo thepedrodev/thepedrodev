@@ -18,7 +18,7 @@ Estudo, Faco aulas de Musicas e vou a academia nas horas vagas.
 
 <div style="display : inline_block" ><br>
     <img align='center' alt='HTML5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' style='padding-right: 10px' />
-    <img align='center' alt='HTML5' src='    https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'style='padding-right: 10px' />
+    <img align='center' alt='HTML5' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'style='padding-right: 10px' />
     <img align='center' alt='HTML5' src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png' style='width: 50px; height: 55px' style='padding-right: 10px'/>
     <img align='center' alt='HTML5' src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png' style='width: 50px; height: 50px; padding-right: 10px'/>
     <img align='center' alt='HTML5' src='https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/csharp.png' style='width: 50px; height: 55px'/>
