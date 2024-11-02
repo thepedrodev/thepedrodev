@@ -1,5 +1,6 @@
 ### Olá, Eu sou o Davi Vital 👋
 <hr>
+
 ### Sobre Mim
 Sou apaixonado por Programacao e Fisica.<br>  
 Sou um estudante do IFPB no curso de Informatica.
@@ -12,6 +13,7 @@ Estudo, Faco aulas de Musicas e vou a academia nas horas vagas.
 ![thepedrodev GitHub stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepedrodev)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
+
 ## Tecnologias que eu uso no meu cotidiano
 
 <div style="display : inline_block" ><br>
