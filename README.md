@@ -7,6 +7,8 @@ Tambem sou assinante da plataforma RockeatSeat para impulsionar meu aprendizados
 
 Estudo, Faco aulas de Musicas e vou a academia nas horas vagas.
 
+Almejo ser um programador fullstack c# ou Apenas desenvolvedor backend CSharp.
+
 
 
 ![thepedrodev GitHub stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=dracula)
