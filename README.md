@@ -3,7 +3,7 @@
 
 ### Sobre Mim
 Sou apaixonado por Programacao e Fisica.<br>  
-Sou um estudante do IFPB no curso de Informatica.
+Sou um estudante do IFPB Campus Cajazeiras do curso de Informatica.
 Tambem sou assinante da plataforma RockeatSeat para impulsionar meu aprendizados! A sensacao de sempre estar na frente dos outros e o que me motiva.
 
 Estudo, Faco aulas de Musicas e vou a academia nas horas vagas.
