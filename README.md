@@ -6,8 +6,6 @@ Sou apaixonado por Programacao e Fisica.<br>
 Sou um estudante do IFPB Campus Cajazeiras do curso de Informatica.
 Tambem sou assinante da plataforma RockeatSeat para impulsionar meu aprendizados!
 
-Estudo, Faco aulas de Musicas e vou a academia nas horas vagas.
-
 <hr>
 
 ![thepedrodev GitHub stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=dracula)
