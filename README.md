@@ -1,6 +1,6 @@
 ##  Hi there! I'm Pedro Davi!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+there%2C+welcome+%F0%9F%A5%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+there+%F0%9F%A5%B7!;I'm+fullstack+Developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 I'm a passionate Fullstack Developer sharing my journey and learning experiences.
 
