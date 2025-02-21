@@ -2,7 +2,7 @@
 
 I'm a passionate Fullstack Developer sharing my journey and learning experiences.
 
-🚀 Currently studying at Rocketseat
-🎯 Deepening my knowledge in Fullstack Development
-🎓 Preparing for EsPCEx with the goal of studying at IME
-💡 Always exploring new technologies and improving my skills
+🚀 Currently studying at Rocketseat</br>
+🎯 Deepening my knowledge in Fullstack Development</br>
+🎓 Preparing for EsPCEx with the goal of studying at IME</br>
+💡 Always exploring new technologies and improving my skills</br>
