@@ -29,7 +29,7 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="height: 35px;"></br>
   </div>
   <div>
-    <img src="[[https://i.pinimg.com/originals/ca/f0/98/caf098ae5c931ac7bae95f09671dbf17.gif]](https://i.pinimg.com/originals/34/3a/2d/343a2dee7c7898eceec0cd1edfed7451.gif)">
+    <img src="https://i.pinimg.com/originals/9f/cd/84/9fcd84b967950b3b967575be22de7e1f.gif">
   </div>
 </div>
 
