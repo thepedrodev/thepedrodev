@@ -21,7 +21,7 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
 
 ### Languages
 
-<div style="display:flex; gap: 10rem; justify-content: space-between;border: solid">
+<div style="display:flex; gap: 10rem; justify-content: space-between; flex-direction: row;">
   <nav style="display:flex; flex-direction: column; gap: 0.5rem">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></br>
@@ -30,7 +30,6 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
   </nav>
   <nav>
     <img src="https://i.pinimg.com/originals/ca/f0/98/caf098ae5c931ac7bae95f09671dbf17.gif" style="witdh=400px; height=100%" >
-
   </nav>
 </div>
 
