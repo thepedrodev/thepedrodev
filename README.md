@@ -31,7 +31,7 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="height: 35px;"></br>
   </div>
   <div>
-    <img src="https://i.pinimg.com/originals/9f/cd/84/9fcd84b967950b3b967575be22de7e1f.gif">
+    <img src="https://media.tenor.com/ojl-ecQHcLIAAAAM/gaara-naruto.gif">
   </div>
 </div>
 
