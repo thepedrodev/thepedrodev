@@ -32,17 +32,6 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
   </nav>
 </div>
 
-
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-davi-vital-da-silva-david-251431352/)
-
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
-
-
-
-
 <h3>My STATS</h3>
 
 <div style="display: flex; gap: ; border: solid;">
