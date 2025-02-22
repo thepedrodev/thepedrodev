@@ -23,16 +23,16 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
 
 ### Languages
 
-<div style="display: flex; gap: 1rem; align-items: center;">
-  <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+<div style="display: flex; gap: 1rem; align-items: center; justify-content: space-between;">
+  <nav style="display: flex; flex-direction: column; gap: 0.5rem;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 35px;"></br>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="height: 35px;"></br>
-  </div>
-  <div>
+  </nav>
+  <nav>
     <img src="https://media.tenor.com/ojl-ecQHcLIAAAAM/gaara-naruto.gif">
-  </div>
+  </nav>
 </div>
 
 
