@@ -3,7 +3,7 @@
   
   
   ##  Hi there!
-  ![hippo]([https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif](https://pin.it/2ch4TZd0g))
+<img src="https://i.pinimg.com/originals/10/74/26/107426b792cf2cfbe7978134a1594478.gif">
  
     
 
