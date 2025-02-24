@@ -32,7 +32,7 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
   </nav>
 </div>
 
-<img src="https://pin.it/4AuSZiia9">
+<img src="[https://pin.it/4AuSZiia9](https://media4.giphy.com/media/11SBJ0JtkqTa2Q/giphy.gif?cid=6c09b952fg8aaashaak461d6l52lb7ltrgll927y4cenm2uw&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 <h3>My STATS</h3>
 
