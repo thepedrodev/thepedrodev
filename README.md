@@ -1,18 +1,12 @@
 
-  <img src="https://camo.githubusercontent.com/842eb8f0d6467a2a32c9f890c991b900568eee441d1d09681d58b21148b6db3c/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d464630303030266865696768743d3132302673656374696f6e3d686561646572"></img>
-  
-  
-  ##  Hi there!
-<img src="https://media.tenor.com/ojl-ecQHcLIAAAAM/gaara-naruto.gif">
- 
-    
 
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+there+%F0%9F%A5%B7!;I'm+fullstack+Developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)
+<img width="100%" src="https://media4.giphy.com/media/11SBJ0JtkqTa2Q/giphy.gif?cid=6c09b952fg8aaashaak461d6l52lb7ltrgll927y4cenm2uw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+there+%F0%9F%A5%B7!;I'm+fullstack+Developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <hr>
-I'm a passionate Fullstack Developer sharing my journey and learning experiences.
+  <img src="https://media.tenor.com/Ch_jU8-OkC8AAAAM/deku1254-deku-vigilante.gif" align="right" height=100%>
+I'm a passionate Fullstack Developer sharing my journey and learning experiences.<br>
 
 🚀 Currently studying at Rocketseat</br>
 🎯 Deepening my knowledge in Fullstack Development</br>
@@ -22,28 +16,23 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
 
 
 ### Languages
-
-<div style="display: flex; justify-content: space-between;">
-  <nav style="display: flex; flex-direction: row; gap: 0.5rem;">
+<div>
+  <nav>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="height: 35px;"></br>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="height: 35px;"></br>
   </nav>
+
 </div>
 
-<img src="[https://pin.it/4AuSZiia9](https://media4.giphy.com/media/11SBJ0JtkqTa2Q/giphy.gif?cid=6c09b952fg8aaashaak461d6l52lb7ltrgll927y4cenm2uw&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+
 
 <h3>My STATS</h3>
-
-<div style="display: flex; gap: ; border: solid;">
-  <nav style="scale: 0.8; margin-top: -28px">
-
-  ![ThePedroDev Github stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepedrodev&layout=donut)](https://github.com/thepedrodev/github-readme-stats)
-  </nav>
+<div padding="100px">
   
-  <nav>
-        <img src="https://i.pinimg.com/originals/9f/cd/84/9fcd84b967950b3b967575be22de7e1f.gif" alt="">
-  </nav>
+![ThePedroDev Github stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepedrodev&layout=donut)](https://github.com/thepedrodev/github-readme-stats) 
+
 </div>
