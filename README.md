@@ -6,7 +6,8 @@
 
 <hr>
   <img src="https://media.tenor.com/Ch_jU8-OkC8AAAAM/deku1254-deku-vigilante.gif" align="right" height=100%>
-I'm a passionate Fullstack Developer sharing my journey and learning experiences.<br>
+
+#### I'm a passionate Fullstack Developer sharing my journey and learning experiences.<br>
 
 🚀 Currently studying at Rocketseat</br>
 🎯 Deepening my knowledge in Fullstack Development</br>
