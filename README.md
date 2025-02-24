@@ -30,10 +30,4 @@
 
 
 <h3>My STATS</h3>
-<div padding="100px">
-  
-![ThePedroDev Github stats](https://github-readme-stats.vercel.app/api?username=thepedrodev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thepedrodev&layout=donut)](https://github.com/thepedrodev/github-readme-stats) 
-
-</div>
