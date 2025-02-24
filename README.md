@@ -32,6 +32,8 @@ I'm a passionate Fullstack Developer sharing my journey and learning experiences
   </nav>
 </div>
 
+<img src="https://pin.it/4AuSZiia9">
+
 <h3>My STATS</h3>
 
 <div style="display: flex; gap: ; border: solid;">
