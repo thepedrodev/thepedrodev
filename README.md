@@ -1,7 +1,5 @@
 
 
-<img width="100%" src="https://media4.giphy.com/media/11SBJ0JtkqTa2Q/giphy.gif?cid=6c09b952fg8aaashaak461d6l52lb7ltrgll927y4cenm2uw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Hello+there+%F0%9F%A5%B7!;I'm+fullstack+Developer.;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 <hr>
